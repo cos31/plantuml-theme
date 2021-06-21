@@ -1,0 +1,45 @@
+skinparam BackgroundColor FFFFFF
+skinparam shadowing false
+skinparam RoundCorner 7
+skinparam ArrowColor 959695
+skinparam FontColor 454645
+skinparam backgroundColor transparent
+skinparam BoxPadding 50
+skinparam componentStyle rectangle
+
+skinparam default {
+    FontName “VL PGothic”
+}
+
+skinparam actor {
+    BackgroundColor ffc0cb
+    BorderColor bf3a7c
+    FontColor 333333
+}
+skinparam Interface {
+    BackgroundColor FF6347
+    BorderColor FF6F61
+    FontColor 696969
+}
+skinparam entity {
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+skinparam database {
+    BackgroundColor 98DDDE
+    BackgroundColor<<Queue>> Orange
+    BorderColor 696969
+    FontColor 333333
+}
+skinparam note {
+    BackgroundColor CACAFF
+    BorderColor 3333A9
+    FontColor 333333
+}
+skinparam Component {
+    BackgroundColor 7FFFD4
+    BorderColor CACACA
+    FontColor 454645
+    FontSize 10
+}

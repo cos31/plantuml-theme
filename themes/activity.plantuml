@@ -1,0 +1,31 @@
+skinparam shadowing false
+skinparam RoundCorner 7
+skinparam ArrowColor 454645
+skinparam FontColor 454645
+skinparam BackgroundColor transparent
+skinparam BoxPadding 50
+
+skinparam default {
+    FontName “VL PGothic”
+}
+
+skinparam activity {
+    StartColor 696969
+    BarColor CACAFF
+    EndColor 696969
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+skinparam activityDiamond {
+    BackgroundColor 696969
+    BorderColor 696969
+    FontColor FFFFFF
+}
+
+skinparam note {
+    BackgroundColor 7FFFD4
+    BorderColor CACACA
+    FontColor 454645
+    FontSize 10
+}

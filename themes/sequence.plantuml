@@ -1,0 +1,74 @@
+!pragma horizontalLineBetweenDifferentPackageAllowed
+skinparam BackgroundColor FFFFFF
+skinparam shadowing false
+skinparam RoundCorner 7
+skinparam ArrowColor 454645
+skinparam FontColor 454645
+skinparam backgroundColor transparent
+skinparam BoxPadding 50
+skinparam SequenceLifeLineBorderColor 696969
+
+skinparam default {
+    FontName “VL PGothic”
+}
+
+skinparam sequenceDivider {
+    BorderColor 454645
+    BorderThickness 1
+    FontColor 454645
+}
+
+skinparam actor {
+    BackgroundColor ffc0cb
+    BorderColor bf3a7c
+    FontColor 454645
+}
+skinparam participant {
+    BackgroundColor FF6F61
+    BorderColor 454645
+    FontColor FFFFFF
+}
+skinparam entity {
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+skinparam database {
+    BackgroundColor 98DDDE
+    BorderColor 696969
+    FontColor 454645
+}
+skinparam boundary {
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+skinparam control {
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+skinparam collections {
+    BackgroundColor FF6F61
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam SequenceBox {
+    BackgroundColor FFEADF
+    BorderColor FF6347
+}
+skinparam SequenceGroup {
+    HeaderFontColor 333333
+    BackgroundColor CCCCF9
+    BorderColor 3333A9
+    FontColor 333333
+    BodyBackgroundColor F6F3FA
+    BorderThickness 1
+}
+skinparam note {
+    BackgroundColor 7FFFD4
+    BorderColor CACACA
+    FontColor 454645
+    FontSize 10
+}
