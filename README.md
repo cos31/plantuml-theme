@@ -1,4 +1,4 @@
-# plantuml-themes
+# plantuml-theme
 
 PlantUML theme
 
@@ -12,7 +12,7 @@ Use the theme from your sequence diagram:
 
 ```
 @startuml 
-!include https://raw.githubusercontent.com/cos31/plantuml-themes/main/themes/sequence.plantuml
+!include https://raw.githubusercontent.com/cos31/plantuml-theme/main/themes/sequence.plantuml
 
 actor Foo1
 box box
